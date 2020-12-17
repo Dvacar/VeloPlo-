@@ -157,3 +157,20 @@
     top: 35px;
     left: 30px;
 }
+.maps {
+    display: inline;
+    position: relative;
+    height: 500px;
+    width: 900px;
+    top: 35px;
+    right: 30px;
+    float: right;
+}
+.kontaktitext{
+    display: inline;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    top: 35px;
+    left: 30px;
+}
