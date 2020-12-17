@@ -1,0 +1,159 @@
+.mainbox {
+    width: 1920px;
+    margin: 0px auto;
+}
+
+.menu{
+    background-color: cadetblue;
+    height: 140px;
+    text-align: center;
+}
+
+.leftside{
+    background-color: gray;
+    width: 100px;
+    height: 80vh;
+    float: left;
+    text-align: center;
+}
+
+.main{
+    background-color: white;
+    height: 80vh;
+    width: 1720px;
+    float: left;
+    
+    
+}
+
+.rightside{
+    background-color: gray;
+    height: 80vh;
+    width: 100px;
+    float: left;
+}
+
+.footer{
+    background-color: palevioletred;
+    height: 929px;
+}
+
+.menu>ul>li{
+    display: inline;
+    padding: 10px 10px 10px 10px;
+    background-color: darkgrey;
+    position: relative;
+    top: 60px;
+    font-family: Tahoma, serif;
+    font-size: 14px;
+}
+
+.menu>ul>li>a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu>ul>li>a:hover{
+   
+    color: black;
+}
+
+.gallery{
+    max-width: 100px;
+    max-height: 80px;
+}
+
+.icon{
+    max-width: 100px;
+    max-height: 80px;
+}
+
+#title{
+    display: inline;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    top: 30px;
+    left: 30px;
+}
+
+#logo{
+    max-height: 140px;
+    float: left;
+    
+}
+#title1{
+    font-family:  'Abel', sans-serif;
+    display: inline;
+    position: relative;
+    top: 30px;
+    font-size: 30px;
+}
+.text{
+ 
+   display: inline;
+    position: relative;
+    font-size: 20px;
+    top: 30px;
+    left: 30px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+#footerlogo{
+    max-width: 100px;
+    float: right;
+    display: inline;
+    position: relative;
+    top: 5px;
+    right: 30px;
+}
+.image{
+    display: inline;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.ikona:hover{
+    color: black;
+}
+.ikona{
+    
+    display: inline;
+    position: relative;
+    top: 60px;
+    font-family: Tahoma, serif;
+    font-size: 14px;
+    color: gold;
+    
+}
+
+.ikona {  
+    text-decoration: none;
+    color: #fff;
+}
+.yt{
+    display: inline;
+    position: relative;
+    height: 500px;
+    width: 900px;
+    top: 35px;
+    right: 30px;
+    float: right;
+     
+}
+.vid_text {
+    display: inline;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    top: 35px;
+    left: 30px;
+}
+.vid_text1 {  
+    display: inline;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    top: 35px;
+    left: 30px;
+}
